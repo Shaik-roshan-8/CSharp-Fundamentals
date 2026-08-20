@@ -13,7 +13,7 @@ Each day is a branch, a pull request, and a merged commit.
 | 03  | Operators and control flow       | ...    |
  
 ## What I built
--**Day 00** - Setting the environment and toolchain is done 
+- **Day 00** - Setting the environment and toolchain is done 
 - **Day 05** — a 2-D array seating-chart printer
 - **Day 12** — a layered library management console app
  
