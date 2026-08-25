@@ -8,7 +8,7 @@ Each day is a branch, a pull request, and a merged commit.
 | Day | Topic | Status |
 |-----|----------------------------------|--------|
 | 00  | Environment and toolchain setup  | Done   |
-| 01  | How .NET works, first program    |    |
+| 01  | How .NET works, first program    | Done   |
 | 02  | Variables, types, conversion     |    |
 | 03  | Operators and control flow       | ...    |
  
